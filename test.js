@@ -1,3 +1,5 @@
+'use strict';
+
 var sum = require('.');
 var Readable = require('stream').Readable;
 var through = require('through2');
